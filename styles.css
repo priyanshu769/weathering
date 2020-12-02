@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.heading{
+    color: #ffffff;
+    background-color: black;
+    padding: 2rem;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.tokyo-weather {
+    background-image: url("clouds.jpg");
+    padding: 7rem;
+    margin: 0rem 0rem 1rem 0rem;
+    max-width: 100%;
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 00.4rem;
+    color: #ffffff;
+}
+
+.tokyo-weather span {
+    color: #fa8231;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.tokyo-desc {
+    text-align: center;
+    margin: 20px;
+}
+
+.tokyo-desc span {
+    color: #fa8231;
+}
+
+.tokyo-desc a {
+    text-decoration: none;
+    color: #2ed573;
+}
+
+.tokyo-desc hr {
+    margin: 1rem 0rem;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0rem 2rem;
+}
+
+.city-name {
+    width: 250px;
+    padding: 1rem;
+}
+
+.show {
+    padding: 0.5rem 1rem;
+    margin: 1.5rem 0rem;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+
+.city-weather {
+    margin: 2rem 0rem;
+}
+
+.weather {
+    letter-spacing: 0.4;
+    font-size: 25px;
+    word-spacing: 00.4rem;
+    margin: 0rem 0rem 2rem 0rem;
+
+}
+
+.invalid {
+    color: red;
+}
+
+footer {
+    background-color: black;
+    color: #ffffff;
+    padding: 2rem;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+}
+
+footer a {
+    text-decoration: none;
+    color: #2ed573;
+}
